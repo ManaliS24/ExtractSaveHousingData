@@ -1,0 +1,3 @@
+pip install playwright
+pip install pandas
+pip install openpyxl
